@@ -1,13 +1,8 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/26xBwdIuR0qB6zUzC/giphy.gif" alt="Coding Animation" width="600" height="200"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3M5Y2VhbHJ0N2J1Z3NqOWZvNDYyZDc0c3JiNHp0OTJqd2V5d29xOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" alt="Coding Animation" width="600" height="200"/>
 </p>
 
 # Hello, I'm Marvin Recepcion
-
-Welcome to my GitHub repository. I am a dedicated software developer specializing in web development, software engineering, and network technologies.
-
----
-
 ## About Me
 I am a System Developer with a strong foundation in building scalable and efficient solutions.
 
