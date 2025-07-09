@@ -1,10 +1,12 @@
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3M5Y2VhbHJ0N2J1Z3NqOWZvNDYyZDc0c3JiNHp0OTJqd2V5d29xOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" alt="Coding Animation" width="600" height="200"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3M5Y2VhbHJ0N2J1Z3NqOWZvNDYyZDc0c3JiNHp0OTJqd2V5d29xOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" alt="Coding Animation" width="400" height="200"/>
 </p>
 
 # Hello, I'm Marvin Recepcion
 ## About Me
 I am a System Developer with a strong foundation in building scalable and efficient solutions.
+I am Currently working on Backend also
+I am a UI/UX designer for Web and Mobile 
 
 ---
 
