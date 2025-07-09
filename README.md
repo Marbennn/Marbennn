@@ -2,15 +2,20 @@
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3M5Y2VhbHJ0N2J1Z3NqOWZvNDYyZDc0c3JiNHp0OTJqd2V5d29xOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" alt="Coding Animation" width="400" height="200"/>
 </p>
 
+<p align="center">
 # Hello, I'm Marvin Recepcion
+  </p>
+<p align="center">
 ## About Me
+  </p>
 I am a System Developer with a strong foundation in building scalable and efficient solutions.
 I am Currently working on Backend also
 I am a UI/UX designer for Web and Mobile 
 
 ---
-
+<p align="center">
 ## Technical Proficiencies
+  </p>
 Below is an overview of the technologies and tools I specialize in:
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -31,14 +36,15 @@ Below is an overview of the technologies and tools I specialize in:
 ![Cisco](https://img.shields.io/badge/-Cisco-1BA0D7?style=flat&logo=cisco&logoColor=white)
 
 ---
-
+<p align="center">
 ## GitHub Activity
 ![Marbennn's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Marbennn&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Marbennn&layout=compact&theme=radical)
-
+  </p>
 ---
-
+<p align="center">
 ## Contact Information
+    </p>
 I am open to collaboration and professional opportunities. Please feel free to reach out:
 
 - **LinkedIn**: https://www.linkedin.com/in/marvinrecepcion/
