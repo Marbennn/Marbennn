@@ -2,13 +2,11 @@
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3M5Y2VhbHJ0N2J1Z3NqOWZvNDYyZDc0c3JiNHp0OTJqd2V5d29xOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" alt="Coding Animation" width="500" height="250"/>
 </p>
 
-# Marvin Recepcion's GitHub Repository
-
-Welcome to my GitHub repository. I am Marvin Receocion, a dedicated System Developer and UI/UX Designer, currently pursuing a Bachelor of Science in Information Technology, majoring in System Development, at PHINMA-University of Pangasinan.
-
 ---
 
 ## About Me
+
+Welcome to my GitHub repository. I am Marvin Receocion, a dedicated System Developer and UI/UX Designer, currently pursuing a Bachelor of Science in Information Technology, majoring in System Development, at PHINMA-University of Pangasinan.
 
 I am a 3rd Year Information Technology student at PHINMA-University of Pangasinan, specializing in System Development. With a strong foundation in software development and design, I focus on creating efficient backend systems and intuitive web and mobile interfaces. My passion for technology drives me to leverage modern tools and frameworks to address real-world challenges, while my commitment to learning fuels my growth in the developer community.
 
