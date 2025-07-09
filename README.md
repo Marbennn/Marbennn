@@ -4,17 +4,17 @@
 
 # Marvin Recepcion's GitHub Repository
 
-Welcome to my GitHub repository. I am a skilled System Developer with expertise in backend development and UI/UX design for web and mobile applications. This repository serves as a portfolio of my projects, demonstrating my proficiency in building scalable, user-focused solutions.
+Welcome to my GitHub repository. I am Marvin Receocion, a dedicated System Developer and UI/UX Designer, currently pursuing a Bachelor of Science in Information Technology, majoring in System Development, at PHINMA-University of Pangasinan.
 
 ---
 
 ## About Me
 
-I am a dedicated professional with a strong foundation in software development and design. My work spans backend systems, front-end interfaces, and network technologies, with a focus on delivering efficient and innovative solutions. I am passionate about leveraging modern tools and frameworks to solve real-world challenges.
+I am a 3rd Year Information Technology student at PHINMA-University of Pangasinan, specializing in System Development. With a strong foundation in software development and design, I focus on creating efficient backend systems and intuitive web and mobile interfaces. My passion for technology drives me to leverage modern tools and frameworks to address real-world challenges, while my commitment to learning fuels my growth in the developer community.
 
 - **Role**: System Developer and UI/UX Designer
+- **Education**: Bachelor of Science in Information Technology (System Development), PHINMA-University of Pangasinan, 3rd Year
 - **Focus Areas**: Backend Development, Web and Mobile UI/UX Design
-- **Location**: [Your location, e.g., City, Country] (optional)
 - **Email**: [maar.recepcion.up@phinmaed.com](mailto:maar.recepcion.up@phinmaed.com)
 - **LinkedIn**: [linkedin.com/in/marvinrecepcion](https://www.linkedin.com/in/marvinrecepcion/)
 
