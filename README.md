@@ -71,7 +71,6 @@ I work with AI tools and frameworks to bring useful intelligence into applicatio
 
 <p>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="[![ChatGPT](https://custom-icon-badges.demolab.com/badge/ChatGPT-74aa9c?logo=openai&logoColor=white)](#)" alt="OpenAI" />
   <img src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini" />
   <img src="https://img.shields.io/badge/%E2%9A%A1_Groq-F55036?style=flat-square" alt="Groq API" />
   <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face" />
@@ -83,9 +82,10 @@ I work with AI tools and frameworks to bring useful intelligence into applicatio
   <img src="https://img.shields.io/badge/DeepSeek-4D6BFE?style=flat-square&logo=deepseek&logoColor=white" alt="DeepSeek" />
   <img src="https://img.shields.io/badge/Qwen-5A43D6?style=flat-square&logo=qwen&logoColor=white" alt="Qwen" />
   <img src="https://img.shields.io/badge/Gemma-4285F4?style=flat-square&logo=google&logoColor=white" alt="Gemma" />
-</p>
 
-![GPT-OSS](https://custom-icon-badges.demolab.com/badge/GPT--OSS-412991?logo=openai&logoColor=white) ![Codex](https://custom-icon-badges.demolab.com/badge/Codex-412991?logo=openai&logoColor=white) ![AutoGPT](https://custom-icon-badges.demolab.com/badge/AutoGPT-000000?logo=openai&logoColor=white)
+![GPT-OSS](https://custom-icon-badges.demolab.com/badge/GPT--OSS-412991?logo=openai&logoColor=white) ![Codex](https://custom-icon-badges.demolab.com/badge/Codex-412991?logo=openai&logoColor=white) ![AutoGPT](https://custom-icon-badges.demolab.com/badge/AutoGPT-000000?logo=openai&logoColor=white) ![OpenAI](https://custom-icon-badges.demolab.com/badge/AutoGPT-000000?logo=openai&logoColor=white) 
+
+</p>
 
 ## Cloud & DevOps
 
