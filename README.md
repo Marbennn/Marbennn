@@ -112,7 +112,7 @@ I work with AI tools and frameworks to bring useful intelligence into applicatio
 
 ## Let's Connect
 
-I'm always interested in thoughtful products, useful technology, and meaningful collaborations. Feel free to reach out.
+I’m currently open to work, collaborations, and meaningful opportunities. If you’re building something thoughtful or need someone to contribute across development, product, or digital systems, feel free to reach out.
 
 - [LinkedIn](https://www.linkedin.com/in/marecepcion/)
 - [Facebook](https://www.facebook.com/marbenarecepcion)
