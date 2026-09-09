@@ -2,7 +2,7 @@
 
 # Marvin Recepcion
 
-### Full-Stack Engineer · Web & AI Systems
+### Full-Stack Developer · Software Systems
 
 I build modern web and mobile applications alongside practical AI systems for analytics, classification, and automation. I enjoy turning rough ideas into thoughtful products that make work clearer and everyday problems simpler to solve.
 
