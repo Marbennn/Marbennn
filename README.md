@@ -74,19 +74,18 @@ I work with AI tools and frameworks to bring useful intelligence into applicatio
   <img src="[![ChatGPT](https://custom-icon-badges.demolab.com/badge/ChatGPT-74aa9c?logo=openai&logoColor=white)](#)" alt="OpenAI" />
   <img src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini" />
   <img src="https://img.shields.io/badge/%E2%9A%A1_Groq-F55036?style=flat-square" alt="Groq API" />
-  <img src="https://img.shields.io/badge/%E2%9C%A6_GPT--OSS-412991?style=flat-square" alt="GPT-OSS" />
   <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face" />
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" />
   <img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude Code" />
-  <img src="[![ChatGPT](https://custom-icon-badges.demolab.com/badge/ChatGPT-74aa9c?logo=openai&logoColor=white)](#)" alt="Codex" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
   <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" alt="Ollama" />
   <img src="https://img.shields.io/badge/Mistral-FF7000?style=flat-square&logo=mistralai&logoColor=white" alt="Mistral" />
   <img src="https://img.shields.io/badge/DeepSeek-4D6BFE?style=flat-square&logo=deepseek&logoColor=white" alt="DeepSeek" />
   <img src="https://img.shields.io/badge/Qwen-5A43D6?style=flat-square&logo=qwen&logoColor=white" alt="Qwen" />
   <img src="https://img.shields.io/badge/Gemma-4285F4?style=flat-square&logo=google&logoColor=white" alt="Gemma" />
-  <img src="[![ChatGPT](https://custom-icon-badges.demolab.com/badge/ChatGPT-74aa9c?logo=openai&logoColor=white)](#) alt="AutoGPT" />
 </p>
+
+![GPT-OSS](https://custom-icon-badges.demolab.com/badge/GPT--OSS-412991?logo=openai&logoColor=white) ![Codex](https://custom-icon-badges.demolab.com/badge/Codex-412991?logo=openai&logoColor=white) ![AutoGPT](https://custom-icon-badges.demolab.com/badge/AutoGPT-000000?logo=openai&logoColor=white)
 
 ## Cloud & DevOps
 
