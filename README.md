@@ -21,7 +21,7 @@ I am a full-stack engineer with a particular interest in building useful web exp
 - Exploring practical AI integrations, from analytics to workflow automation
 - Focused on clear design, maintainable systems, and real-world usefulness
 
-## Core Stack
+## Frontend
 
 <p>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -38,6 +38,8 @@ I am a full-stack engineer with a particular interest in building useful web exp
   <img src="https://img.shields.io/badge/Styled_Components-DB7093?style=flat-square&logo=styledcomponents&logoColor=white" alt="Styled Components" />
   <img src="https://img.shields.io/badge/Java_Swing-007396?style=flat-square&logo=openjdk&logoColor=white" alt="Java Swing" />
 </p>
+
+## Backend
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
@@ -61,11 +63,9 @@ I am a full-stack engineer with a particular interest in building useful web exp
   <img src="https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
   <img src="https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white" alt="Firebase" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS" />
 </p>
 
-## AI & Automation
+## AI & Machine Learning
 
 I work with AI tools and frameworks to bring useful intelligence into applications—from model-powered features to automated workflows.
 
@@ -88,7 +88,16 @@ I work with AI tools and frameworks to bring useful intelligence into applicatio
   <img src="https://img.shields.io/badge/AutoGPT-000000?style=flat-square&logo=autogpt&logoColor=white" alt="AutoGPT" />
 </p>
 
-## Tools I Use
+## Cloud & DevOps
+
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/AWS_Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white" alt="AWS Lambda" />
+  <img src="https://img.shields.io/badge/Alibaba_Cloud-FF6A00?style=flat-square&logo=alibabacloud&logoColor=white" alt="Alibaba Cloud" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+</p>
+
+## Developer Tools
 
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
@@ -97,8 +106,6 @@ I work with AI tools and frameworks to bring useful intelligence into applicatio
   <img src="https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white" alt="Cursor" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
-  <img src="https://img.shields.io/badge/AWS_Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white" alt="AWS Lambda" />
-  <img src="https://img.shields.io/badge/Alibaba_Cloud-FF6A00?style=flat-square&logo=alibabacloud&logoColor=white" alt="Alibaba Cloud" />
   <img src="https://img.shields.io/badge/Ganache-E4A663?style=flat-square&logo=ethereum&logoColor=white" alt="Ganache" />
   <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=unity&logoColor=black" alt="Unity" />
 </p>
