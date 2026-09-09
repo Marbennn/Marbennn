@@ -71,28 +71,28 @@ I work with AI tools and frameworks to bring useful intelligence into applicatio
 
 <p>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/%E2%9C%A6_OpenAI-412991?style=flat-square" alt="OpenAI" />
   <img src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini" />
-  <img src="https://img.shields.io/badge/Groq-F55036?style=flat-square&logo=groq&logoColor=white" alt="Groq API" />
-  <img src="https://img.shields.io/badge/GPT--OSS-412991?style=flat-square&logo=openai&logoColor=white" alt="GPT-OSS" />
+  <img src="https://img.shields.io/badge/%E2%9A%A1_Groq-F55036?style=flat-square" alt="Groq API" />
+  <img src="https://img.shields.io/badge/%E2%9C%A6_GPT--OSS-412991?style=flat-square" alt="GPT-OSS" />
   <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face" />
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" />
   <img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude Code" />
-  <img src="https://img.shields.io/badge/Codex-412991?style=flat-square&logo=openai&logoColor=white" alt="Codex" />
+  <img src="https://img.shields.io/badge/%E2%9C%A6_Codex-412991?style=flat-square" alt="Codex" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
   <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" alt="Ollama" />
-  <img src="https://img.shields.io/badge/Mistral-FF7000?style=flat-square&logo=mistral&logoColor=white" alt="Mistral" />
+  <img src="https://img.shields.io/badge/Mistral-FF7000?style=flat-square&logo=mistralai&logoColor=white" alt="Mistral" />
   <img src="https://img.shields.io/badge/DeepSeek-4D6BFE?style=flat-square&logo=deepseek&logoColor=white" alt="DeepSeek" />
-  <img src="https://img.shields.io/badge/Qwen-5A43D6?style=flat-square&logo=alibabacloud&logoColor=white" alt="Qwen" />
+  <img src="https://img.shields.io/badge/Qwen-5A43D6?style=flat-square&logo=qwen&logoColor=white" alt="Qwen" />
   <img src="https://img.shields.io/badge/Gemma-4285F4?style=flat-square&logo=google&logoColor=white" alt="Gemma" />
-  <img src="https://img.shields.io/badge/AutoGPT-000000?style=flat-square&logo=autogpt&logoColor=white" alt="AutoGPT" />
+  <img src="https://img.shields.io/badge/%F0%9F%A4%96_AutoGPT-000000?style=flat-square" alt="AutoGPT" />
 </p>
 
 ## Cloud & DevOps
 
 <p>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/AWS_Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white" alt="AWS Lambda" />
+  <img src="https://img.shields.io/badge/%E2%98%81_AWS-232F3E?style=flat-square" alt="AWS" />
+  <img src="https://img.shields.io/badge/%CE%BB_AWS_Lambda-FF9900?style=flat-square" alt="AWS Lambda" />
   <img src="https://img.shields.io/badge/Alibaba_Cloud-FF6A00?style=flat-square&logo=alibabacloud&logoColor=white" alt="Alibaba Cloud" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
 </p>
